@@ -1,0 +1,4 @@
+True mean: 152.7206871868289
+True var: 57674.02524696099
+Map-reduce mean:
+Map-reduce var: 
