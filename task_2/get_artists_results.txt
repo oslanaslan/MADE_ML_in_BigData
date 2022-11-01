@@ -1,0 +1,33 @@
+# Исполнителя с максимальным числом скробблов
+
+The Beatles
+
+# Самый популярный тэг на ластфм
+
+seen live
+
+# Самые популярные исполнители 10 самых популярных тегов ластфм
+
+1   The Beatles
+2	Radiohead
+3	Coldplay
+4	Muse
+5	Arctic Monkeys
+6	Pink Floyd
+7	Linkin Park
+8	Red Hot Chili Peppers
+9	Lady Gaga
+10	Metallica
+
+# Топ 10 стран с самым большим количеством анимешников (тэг содержит 'anime')
+ 
+1	Japan
+2	United States
+3	Sweden
+4	United Kingdom
+5	France
+6	Germany
+7	Italy
+8	Russia
+9	Spain
+10	South Korea
