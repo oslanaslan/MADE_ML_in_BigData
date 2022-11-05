@@ -1,0 +1,5 @@
+Val MSE: 0.08086606876702164
+Test MSE: 0.08451996203818482
+Prediction written to /home/aslan/Documents/Github/MADE_ML_in_BigData/task_3/LinReg/data/pred.csv
+
+Process finished with exit code 0
