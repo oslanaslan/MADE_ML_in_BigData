@@ -1,4 +1,4 @@
-package standart_scaler
+package linear_regression
 
 import breeze.linalg._
 import breeze.stats.{mean, stddev}
@@ -13,8 +13,8 @@ class StandartScaler {
   }
 
   def Transform(X: DenseMatrix[Double]): DenseMatrix[Double] = {
-    var res = X(::, *) - this._mean
-    res = res(::, *) / this._std
+    var res = X(*, ::) - this._mean
+    res = res(*, ::) / this._std
     return res
   }
 
